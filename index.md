@@ -7,3 +7,6 @@ added a header
 var myVar = "Hello, world!";
 ```
 
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
